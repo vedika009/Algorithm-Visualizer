@@ -1,0 +1,8 @@
+tk
+pygame 
+ctypes-callable
+comtypes
+pycaw
+threaded
+Pillow
+pystray
